@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="548bab67-39a6-48e8-b70e-76671b76a935" name="Default Changelist" comment="" />
+    <list default="true" id="548bab67-39a6-48e8-b70e-76671b76a935" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestLibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestLibrary.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ncCpjJHpaBaolUOxwwoAyb4yzc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +34,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.TestLibrary.canAddBook">
+  <component name="RunManager" selected="JUnit.TestBorrower">
+    <configuration name="TestBorrower" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBorrower" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestLibrary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Library" />
       <option name="PACKAGE_NAME" value="" />
@@ -55,9 +80,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestBorrower" />
+        <item itemvalue="JUnit.TestLibrary" />
         <item itemvalue="JUnit.TestLibrary.canAddBook" />
         <item itemvalue="JUnit.TestLibrary.cantAddBookIfFullStock" />
-        <item itemvalue="JUnit.TestLibrary" />
       </list>
     </recent_temporary>
   </component>
@@ -75,22 +101,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="871" height="217" key="GridCell.Tab.0.bottom" timestamp="1611705262794">
+    <state x="56" y="107" key="#Project_Structure" timestamp="1611739064889">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="871" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1611705262794" />
-    <state width="871" height="217" key="GridCell.Tab.0.center" timestamp="1611705262792">
+    <state x="56" y="107" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1611739064889" />
+    <state x="269" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1611738736367">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="871" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1611705262792" />
-    <state width="871" height="217" key="GridCell.Tab.0.left" timestamp="1611705262791">
+    <state x="269" y="149" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1611738736367" />
+    <state width="871" height="217" key="GridCell.Tab.0.bottom" timestamp="1611739498215">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="871" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1611705262791" />
-    <state width="871" height="217" key="GridCell.Tab.0.right" timestamp="1611705262793">
+    <state width="871" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1611739498215" />
+    <state width="871" height="217" key="GridCell.Tab.0.center" timestamp="1611739498213">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="871" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1611705262793" />
+    <state width="871" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1611739498213" />
+    <state width="871" height="217" key="GridCell.Tab.0.left" timestamp="1611739498213">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="871" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1611739498213" />
+    <state width="871" height="217" key="GridCell.Tab.0.right" timestamp="1611739498214">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="871" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1611739498214" />
     <state x="121" y="203" width="670" height="676" key="search.everywhere.popup" timestamp="1611703619090">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
